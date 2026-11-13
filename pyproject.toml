@@ -1,0 +1,20 @@
+[project]
+name = "dbt-db"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Satya Annepogu", email = "satya.annepogu@millicom.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "dbt-core>=1.12.7",
+    "dbt-databricks>=1.10.9",
+]
+
+[project.scripts]
+dbt-db = "dbt_db:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
