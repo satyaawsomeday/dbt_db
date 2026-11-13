@@ -9,6 +9,8 @@ sources:
       - name: dim_date
       - name: dim_customer
       - name: dim_product
+      - name: items
+
       
 
       
