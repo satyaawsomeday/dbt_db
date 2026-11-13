@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date
+1001,Ava,Patel,ava.patel@example.com,555-0101,Austin,TX,US,2024-01-15
+1002,Liam,Chen,liam.chen@example.com,555-0102,Seattle,WA,US,2024-02-03
+1003,Olivia,Garcia,olivia.garcia@example.com,555-0103,Denver,CO,US,2024-02-19
+1004,Noah,Kim,noah.kim@example.com,555-0104,Boston,MA,US,2024-03-08
+1005,Emma,Johnson,emma.johnson@example.com,555-0105,Chicago,IL,US,2024-03-22
+1006,Lucas,Martin,lucas.martin@example.com,555-0106,Portland,OR,US,2024-04-11
+1007,Mia,Robinson,mia.robinson@example.com,555-0107,Miami,FL,US,2024-05-01
+1008,Ethan,Wilson,ethan.wilson@example.com,555-0108,Atlanta,GA,US,2024-05-17
+1009,Sofia,Nguyen,sofia.nguyen@example.com,555-0109,Phoenix,AZ,US,2024-06-06
+1010,James,Brown,james.brown@example.com,555-0110,New York,NY,US,2024-06-24
